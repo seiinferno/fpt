@@ -1,0 +1,23 @@
+		.box1{top:300px;left:700px;right: 330px; height: 350px;width:400px;border:2px solid yellow;position: absolute;border-radius: 10px;background: rgba(17,255,214,0.60);box-shadow: 2px}
+		.box2{top:300px;left:700px;right: 330px; height: 350px;width:400px;border:2px solid yellow;position: absolute;border-radius: 10px;background: rgba(17,255,214,0.60);box-shadow: 2px}
+		#order{
+  			width: 290px;
+  			margin: 20px auto;
+  			border: 1px solid rgba(0,255,84,0.75) ;
+  			text-align: center;
+  			background: rgba(255,255,255,0.75);
+  			border-radius: 10px;
+  			padding: 10px;
+  			cursor: pointer;
+  			transition: 0.25s;
+  			color: white;
+}
+#order:hover{
+  width: 350px;
+  letter-spacing: 3px;
+}
+		.welcome{font-size: 60px;color:mediumaquamarine;left: 30px;padding-left: 10px;float: left}
+		.box3{top:150px;left:30px;right: 330px; height: 250px;width:400px;border:2px solid yellow;position: absolute;border-radius: 10px;background: rgba(17,255,214,0.40);box-shadow: 2px;box-shadow: 3px 3px 2px}
+.searchbox{}
+		.friendfinding{font-size: 20px;color:mediumaquamarine;padding-top:30px;float:right}
+.findandwelcome{}
